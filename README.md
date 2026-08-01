@@ -1,5 +1,9 @@
 # Customer Churn Prediction using Artificial Neural Network (ANN)
 
+## 🚀 Live Demo
+
+**Streamlit App:** https://ann-classification-7fjtrkwdyg9wgflynuhb73.streamlit.app/
+
 A deep learning project that predicts whether a bank customer is likely to churn based on demographic and account information. The project is built using TensorFlow/Keras and deployed with Streamlit.
 
 ## Features
